@@ -6,7 +6,7 @@
 
 **From complex data to executive decisions — measurable impact, end‑to‑end.**
 
-Open to remote work and relocation to Australia
+Open to remote work and relocation in Australia
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/pedro-gabriel-anzei-1a212a195) &nbsp; [![Email](https://img.shields.io/badge/Email-Contact-informational?logo=gmail)](mailto:anzeipedrogabriel@gmail.com)
 
