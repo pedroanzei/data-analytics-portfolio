@@ -24,7 +24,7 @@ Passionate about data-driven decision-making and continuous learning. Based in A
 ---
 
 ## Core Skills
-![SQL](https://img.shields.io/badge/SQL-Intermediate%2B-informational?logo=postgresql)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-Advanced%2B-informational?logo=postgresql)&nbsp;
 ![Python](https://img.shields.io/badge/Python-Advanced-informational?logo=python)&nbsp;
 ![Pandas](https://img.shields.io/badge/Pandas-Advanced-informational?logo=pandas)&nbsp;
 ![Power BI](https://img.shields.io/badge/Power%20BI-Advanced-informational?logo=powerbi)&nbsp;
