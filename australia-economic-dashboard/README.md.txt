@@ -60,4 +60,5 @@ Pedro Gabriel Anzei
 Data Analyst | Based in Australia 🇦🇺  
 Work & Holiday Visa  
 
-LinkedIn: (coloque seu link aqui)
+LinkedIn: www.linkedin.com/in/pedro-gabriel-anzei-1a212a195
+
